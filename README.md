@@ -1,3 +1,12 @@
+## About Me
+Hey, nice to meet you, I'm Oleksandr!
+- I am a passionate tester who recently completed a Manual GameDev QA course
+- I have broad gaming experience across PC, console and mobile games in the RPG, Strategy and Match-3 genres
+- I have hands-on experience working with testing tools and test documentation
+- My strong sides are clear communication and being a team player
+
+🚀 I am currently looking for my first professional role in Game QA and am open to new opportunities!
+
 ## CV
 Please, find [my CV* using this link](https://docs.google.com/spreadsheets/d/11npnC9Brcj596-8iuWqLYcCylqyVSNdI9x9oYhEetgs/edit?gid=768374969#gid=768374969). 
 
