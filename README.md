@@ -1,4 +1,9 @@
-Colons can be used to align columns.
+## CV
+Please, find [my CV* using this link](https://docs.google.com/spreadsheets/d/11npnC9Brcj596-8iuWqLYcCylqyVSNdI9x9oYhEetgs/edit?gid=768374969#gid=768374969). 
+
+**This version can be outdated and not full, please contact me to get the most relevant CV.*
+
+## GameDev QA Portfolio
 
 | Link           | Description  |
 |:-------------| :-----:|
@@ -7,12 +12,3 @@ Colons can be used to align columns.
 | [Test plan](https://docs.google.com/document/d/1khWpPDWUbTwOPHuebtuXXP-xYbUkRBFnRNnUskUKSH8/edit?tab=t.0#heading=h.a0jqse91fwbf)      |    - |
 | [Checklist](https://docs.google.com/spreadsheets/d/11npnC9Brcj596-8iuWqLYcCylqyVSNdI9x9oYhEetgs/edit?gid=1629984341#gid=1629984341)      |    - |
 | [Final test report](https://docs.google.com/document/d/1o4BrgrD0iP8OLvb7TkjyNhO0hqDNhhe_Q9zX7_I-P4U/edit?tab=t.0)      |    - |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
