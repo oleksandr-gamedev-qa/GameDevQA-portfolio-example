@@ -15,8 +15,8 @@ Please, find [my CV* using this link](https://www.cvmaker.com/).
 **This project is a non-commercial case study conducted for educational purposes. All game titles, assets, and trademarks are the property of their respective owners.*
 | Link                    | Description  |
 |:-----------------------| :-----:|
-| [Test cases](https://app.testomat.io/) | To see detailed steps to repdocue and expected result, click on the summary/title of each test case |
+| [Test cases](https://app.testomat.io/) | To see detailed steps to reproduce and expected result, click on the summary/title of each test case |
 | [Bug reports](https://github.com/oleksandr-gamedev-qa/GameDevQA-portfolio-example/issues)      |   Bug reports are screenshots from Jira |
-| [Test plan](https://qatestlab.com/resources/knowledge-center/sample-deliverables/test-plan/)      |    - |
-| [Checklist](https://www.checkli.com/)      |    - |
-| [Final test report](https://www.testrail.com/blog/test-reporting-success/)      |    - |
+| [Test plan](https://qatestlab.com/resources/knowledge-center/sample-deliverables/test-plan/)      |    An example of imaginary test plan |
+| [Checklist](https://www.checkli.com/)      |    A high-level list of checks |
+| [Final test report](https://www.testrail.com/blog/test-reporting-success/)      |    An example of not real final tets report about all work done |
