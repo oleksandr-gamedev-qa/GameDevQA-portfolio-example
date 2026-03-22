@@ -8,7 +8,7 @@ Hey, nice to meet you, I'm Oleksandr!
 🚀 I am currently looking for my first professional role in Game QA and am open to new opportunities!
 
 ## CV
-Please, find [my CV* using this link](https://docs.google.com/spreadsheets/d/11npnC9Brcj596-8iuWqLYcCylqyVSNdI9x9oYhEetgs/edit?gid=768374969#gid=768374969). 
+Please, find [my CV* using this link](https://www.cvmaker.com/). 
 
 **This version can be outdated and not full, please contact me to get the most relevant CV.*
 
