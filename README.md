@@ -18,6 +18,6 @@ Please, find [my CV* using this link](https://www.cvmaker.com/).
 |:-----------------------| :-----:|
 | [Test cases](https://app.testomat.io/) | To see detailed steps to repdocue and expected result, click on the summary/title of each test case |
 | [Bug reports](https://github.com/oleksandr-gamedev-qa/GameDevQA-portfolio-example/issues)      |   Bug reports are screenshots from Jira |
-| [Test plan](https://docs.google.com/document/d/1khWpPDWUbTwOPHuebtuXXP-xYbUkRBFnRNnUskUKSH8/edit?tab=t.0#heading=h.a0jqse91fwbf)      |    - |
-| [Checklist](https://docs.google.com/spreadsheets/d/11npnC9Brcj596-8iuWqLYcCylqyVSNdI9x9oYhEetgs/edit?gid=1629984341#gid=1629984341)      |    - |
-| [Final test report](https://docs.google.com/document/d/1o4BrgrD0iP8OLvb7TkjyNhO0hqDNhhe_Q9zX7_I-P4U/edit?tab=t.0)      |    - |
+| [Test plan](https://qatestlab.com/resources/knowledge-center/sample-deliverables/test-plan/)      |    - |
+| [Checklist](https://www.checkli.com/)      |    - |
+| [Final test report](https://www.testrail.com/blog/test-reporting-success/)      |    - |
