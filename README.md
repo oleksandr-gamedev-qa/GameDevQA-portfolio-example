@@ -17,6 +17,6 @@ Please, find [my CV* using this link](https://www.cvmaker.com/).
 |:-----------------------| :-----:|
 | [Test cases](https://app.testomat.io/) | To see detailed steps to reproduce and expected result, click on the summary/title of each test case |
 | [Bug reports](https://github.com/oleksandr-gamedev-qa/GameDevQA-portfolio-example/issues)      |   Bug reports are screenshots from Jira |
-| [Test plan](https://qatestlab.com/resources/knowledge-center/sample-deliverables/test-plan/)      |    An example of imaginary test plan |
-| [Checklist](https://www.checkli.com/)      |    A high-level list of checks |
-| [Final test report](https://www.testrail.com/blog/test-reporting-success/)      |    An example of not real final tets report about all work done |
+| [Test plan](https://qatestlab.com/resources/knowledge-center/sample-deliverables/test-plan/)      |    Outliens scope, objectives, and testing methodology |
+| [Checklist](https://www.checkli.com/)      |    High-level functional checklist used for quick feature verification |
+| [Final test report](https://www.testrail.com/blog/test-reporting-success/)      |    A summary report detailing testing results and bug distribution |
