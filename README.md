@@ -12,8 +12,9 @@ Please, find [my CV* using this link](https://www.cvmaker.com/).
 
 **This version can be outdated and not full, please contact me to get the most relevant CV.*
 
-## GameDev QA Portfolio
+## GameDev QA Portfolio*
 
+**This project is a non-commercial case study conducted for educational purposes. All game titles, assets, and trademarks are the property of their respective owners.*
 | Link                    | Description  |
 |:-----------------------| :-----:|
 | [Test cases](https://app.testomat.io/) | To see detailed steps to repdocue and expected result, click on the summary/title of each test case |
